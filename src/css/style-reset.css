@@ -1,0 +1,12 @@
+* {
+    /*espaçamento externo*/
+    margin: 0;
+    /*espaçamento interno*/
+    padding: 0;
+    /*trabalho com alturas, larguras ou seja dimensão*/
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
